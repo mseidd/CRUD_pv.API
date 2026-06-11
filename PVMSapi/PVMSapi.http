@@ -1,0 +1,6 @@
+@PVMSapi_HostAddress = http://localhost:5116
+
+GET {{PVMSapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

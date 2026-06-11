@@ -1,0 +1,61 @@
+{
+  "Vendors": [
+    {
+      "Name": "Karlo Alatiit",
+      "Address": "PFASk",
+      "Contact": "9834817894"
+    },
+    {
+      "Name": "Kurt Redondo",
+      "Address": "Malaban",
+      "Contact": "01923093"
+    },
+    {
+      "Name": "Aj Aviles",
+      "Address": "SanPedro",
+      "Contact": "09182387"
+    },
+    {
+      "Name": "Neil",
+      "Address": "Canlalay",
+      "Contact": "09129738"
+    },
+    {
+      "Name": "MarkIgloso",
+      "Address": "DelaPaz",
+      "Contact": "09174566726"
+    }
+  ],
+  "Purchases": [
+    {
+      "VendorName": "Karlo Alatiit",
+      "Item": "Pre-workout",
+      "Quantity": 3,
+      "Total": 900
+    },
+    {
+      "VendorName": "kurt redondo",
+      "Item": "Pre-workout",
+      "Quantity": 3,
+      "Total": 900
+    },
+    {
+      "VendorName": "neil",
+      "Item": "Creatine",
+      "Quantity": 1,
+      "Total": 700
+    },
+    {
+      "VendorName": "MarkIgloso",
+      "Item": "Creatine",
+      "Quantity": 3,
+      "Total": 2100
+    },
+    {
+      "VendorName": "Aj Aviles",
+      "Item": "Pre-workout",
+      "Quantity": 4,
+      "Total": 1200
+    }
+  ]
+}
